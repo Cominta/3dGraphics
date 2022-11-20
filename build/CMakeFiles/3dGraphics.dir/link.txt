@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\3dGraphics.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\3dGraphics.dir/objects.a @CMakeFiles\3dGraphics.dir\objects1
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\3dGraphics.dir/objects.a -Wl,--no-whole-archive -o C:\Users\Roman\Desktop\3dGraphics\output\3dGraphics.exe -Wl,--out-implib,C:\Users\Roman\Desktop\3dGraphics\output\lib3dGraphics.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3dGraphics.dir\linkLibs.rsp

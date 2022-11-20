@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/Roman/Desktop/3dGraphics/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/3dGraphics.dir/includes_CXX.rsp -g -o CMakeFiles\\3dGraphics.dir\\src\\engine.cpp.obj -c C:\\Users\\Roman\\Desktop\\3dGraphics\\src\\engine.cpp",
+  "file": "C:/Users/Roman/Desktop/3dGraphics/src/engine.cpp"
+},
+{
+  "directory": "C:/Users/Roman/Desktop/3dGraphics/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/3dGraphics.dir/includes_CXX.rsp -g -o CMakeFiles\\3dGraphics.dir\\src\\main.cpp.obj -c C:\\Users\\Roman\\Desktop\\3dGraphics\\src\\main.cpp",
+  "file": "C:/Users/Roman/Desktop/3dGraphics/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Roman/Desktop/3dGraphics/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/3dGraphics.dir/includes_CXX.rsp -g -o CMakeFiles\\3dGraphics.dir\\src\\mainState.cpp.obj -c C:\\Users\\Roman\\Desktop\\3dGraphics\\src\\mainState.cpp",
+  "file": "C:/Users/Roman/Desktop/3dGraphics/src/mainState.cpp"
+},
+{
+  "directory": "C:/Users/Roman/Desktop/3dGraphics/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/3dGraphics.dir/includes_CXX.rsp -g -o CMakeFiles\\3dGraphics.dir\\src\\state.cpp.obj -c C:\\Users\\Roman\\Desktop\\3dGraphics\\src\\state.cpp",
+  "file": "C:/Users/Roman/Desktop/3dGraphics/src/state.cpp"
+}
+]
