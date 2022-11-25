@@ -242,6 +242,4 @@ CMakeFiles/3dGraphics.dir/src/mainState.cpp.obj: \
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Glsl.inl \
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Sprite.hpp \
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Text.hpp \
- C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/VertexBuffer.hpp \
- C:/Users/Roman/Desktop/3dGraphics/include/3dEngine.h \
- C:/Users/Roman/Desktop/3dGraphics/include/raycasting.h
+ C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/VertexBuffer.hpp

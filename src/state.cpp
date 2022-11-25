@@ -8,7 +8,7 @@ State::State(sf::RenderWindow* window)
 
 State::~State()
 {
-
+    delete this->window;
 }
 
 void State::update()

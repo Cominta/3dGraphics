@@ -252,8 +252,6 @@ CMakeFiles/3dGraphics.dir/src/engine.cpp.obj
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Sprite.hpp
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Text.hpp
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/VertexBuffer.hpp
- C:/Users/Roman/Desktop/3dGraphics/include/3dengine.h
- C:/Users/Roman/Desktop/3dGraphics/include/raycasting.h
 
 CMakeFiles/3dGraphics.dir/src/main.cpp.obj
  C:/Users/Roman/Desktop/3dGraphics/src/main.cpp
@@ -506,8 +504,6 @@ CMakeFiles/3dGraphics.dir/src/main.cpp.obj
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Sprite.hpp
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Text.hpp
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/VertexBuffer.hpp
- C:/Users/Roman/Desktop/3dGraphics/include/3dengine.h
- C:/Users/Roman/Desktop/3dGraphics/include/raycasting.h
 
 CMakeFiles/3dGraphics.dir/src/mainState.cpp.obj
  C:/Users/Roman/Desktop/3dGraphics/src/mainState.cpp
@@ -754,8 +750,6 @@ CMakeFiles/3dGraphics.dir/src/mainState.cpp.obj
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Sprite.hpp
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/Text.hpp
  C:/Users/Roman/Desktop/3dGraphics/include/SFML/Graphics/VertexBuffer.hpp
- C:/Users/Roman/Desktop/3dGraphics/include/3dengine.h
- C:/Users/Roman/Desktop/3dGraphics/include/raycasting.h
 
 CMakeFiles/3dGraphics.dir/src/state.cpp.obj
  C:/Users/Roman/Desktop/3dGraphics/src/state.cpp

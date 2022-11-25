@@ -4,13 +4,17 @@ Engine::Engine()
 {
     this->delta = 0.0f;
 
-    this->window = new sf::RenderWindow(sf::VideoMode(1100, 800), "Particles life");
+    this->window = new sf::RenderWindow(sf::VideoMode(1100, 800), "3dGraphics");
     this->states.push(new MainState(this->window));
 }
 
 Engine::~Engine()
 {
-
+    while (!this->states.empty())
+    {
+        delete this->states.top();
+        this->states.pop();
+    }
 }
 
 void Engine::start()

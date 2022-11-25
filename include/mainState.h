@@ -2,10 +2,14 @@
 #define MAIN_STATE_H
 
 #include "state.h"
-#include "3dEngine.h"
 
 class MainState : public State
 {
+    private: 
+        sf::Shader shader;
+        
+        sf::RectangleShape* sprite;
+
     public:
         MainState(sf::RenderWindow* window);
         ~MainState();
